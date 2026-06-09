@@ -1,0 +1,2 @@
+2026-06-09,Entertainment,500,Movie
+2026-06-09,Transport,200,Metro
